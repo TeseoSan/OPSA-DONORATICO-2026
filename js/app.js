@@ -77,7 +77,9 @@ function render() {
         const giorno = data.getDate();
         const mese = mesi[data.getMonth()];
 
-        html += `<hr><h3>${turno.giorno} ${giorno} ${mese} - ${turno.turno}</h3><div>`;
+        const completo = turno.CN && turno.OP;
+
+        html += `<hr><h3 style="${completo ? 'background:#c8f7c8;' : ''}">${turno.giorno} ${giorno} ${mese} - ${turno.turno}${completo ? ' ✅' : ''}</h3><div>`;
 
         // CN e OP: slot singolo
         html += renderSlotSingolo(turno, "CN");
