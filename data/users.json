@@ -1,0 +1,242 @@
+[
+  {
+    "nome": "Dario",
+    "cognome": "Mori",
+    "displayName": "Dario Mori",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Teseo",
+    "cognome": "San",
+    "displayName": "Teseo San",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Simone",
+    "cognome": "Lenzi",
+    "displayName": "Simone Lenzi",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Cinzia",
+    "cognome": "Niccolai",
+    "displayName": "Cinzia Niccolai",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Domingo",
+    "cognome": "Belcari",
+    "displayName": "Domingo Belcari",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Manuela",
+    "cognome": "Rimoldi",
+    "displayName": "Manuela Rimoldi",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Mario",
+    "cognome": "Taddei",
+    "displayName": "Mario Taddei",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Michele",
+    "cognome": "Nasso",
+    "displayName": "Michele Nasso",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Pamela",
+    "cognome": "Tazzi",
+    "displayName": "Pamela Tazzi",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Ugo",
+    "cognome": "Belcari",
+    "displayName": "Ugo Belcari",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Giacomo",
+    "cognome": "Giannini",
+    "displayName": "Giacomo Giannini",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Arfy",
+    "cognome": "Bianchi",
+    "displayName": "Arfy Bianchi",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Franco",
+    "cognome": "Rossi",
+    "displayName": "Franco Rossi",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Lorenzo",
+    "cognome": "Tatoni",
+    "displayName": "Lorenzo Tatoni",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Mario",
+    "cognome": "Caiai",
+    "displayName": "Mario Caiai",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Michele",
+    "cognome": "Poli",
+    "displayName": "Michele Poli",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Paolo",
+    "cognome": "Verdi",
+    "displayName": "Paolo Verdi",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Filippo",
+    "cognome": "Cini",
+    "displayName": "Filippo Cini",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Riccardo",
+    "cognome": "Pellegrini",
+    "displayName": "Riccardo Pellegrini",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": true, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Rodolfo",
+    "cognome": "Pantani",
+    "displayName": "Rodolfo Pantani",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": false, "CE": true, "RIS": false },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Simone",
+    "cognome": "Rossi",
+    "displayName": "Simone Rossi",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Silvano",
+    "cognome": "Favilli",
+    "displayName": "Silvano Favilli",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": false, "CE": true, "RIS": false },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Giovanni",
+    "cognome": "Pinzi",
+    "displayName": "Giovanni Pinzi",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  },
+  {
+    "nome": "Anna",
+    "cognome": "Paolo",
+    "displayName": "Anna Paolo",
+    "email": "",
+    "telefono": "",
+    "qualifiche": { "CN": false, "OP": true, "CE": true, "RIS": true },
+    "attivo": true,
+    "createdAt": null
+  }
+]
