@@ -1,0 +1,25 @@
+name: Controllo turni weekend
+
+on:
+  schedule:
+    # 17:00 UTC ogni giovedì = ~18:00/19:00 ora italiana a seconda dell'ora legale
+    - cron: "0 17 * * 4"
+  workflow_dispatch: {}   # permette di lanciarlo manualmente da GitHub per fare un test
+
+jobs:
+  controlla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install
+
+      - run: node scripts/check-turni.js
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
