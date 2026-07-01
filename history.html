@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Storico Turni OPSA</title>
+    <style>
+        body { font-family: sans-serif; font-size: 16px; padding: 10px; }
+        h3 { background: #eee; padding: 6px; margin-top: 20px; }
+        ul { padding-left: 18px; }
+        li { margin-bottom: 4px; }
+        .prenota { color: #060; }
+        .cancella { color: #900; }
+        .admin { color: #a60; font-weight: bold; }
+        input[type=text] { width: 100%; padding: 8px; font-size: 16px; box-sizing: border-box; margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+
+<h1>Storico modifiche — Turni OPSA</h1>
+<p>Sola visualizzazione. Ordinato dal turno più vicino al più lontano.</p>
+
+<input type="text" id="filtro" placeholder="Filtra per data o nome (es. 27 giugno, oppure Mario)">
+
+<div id="storico">Caricamento...</div>
+
+<script type="module" src="js/history.js"></script>
+
+</body>
+</html>
